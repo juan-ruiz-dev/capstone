@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "yrmkmd": "Porsche Taycan",
+      "price": 78000,
+      "imageURL" : "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/teaser_700x395/dam/pnr/2020/products/Scientists-declare-the-Taycan-the-most-innovative-car-in-the-world/b-Porsche-wins-AutomotiveINNOVATIONS-award-3.jpeg/jcr:content/b-Porsche%20wins%20AutomotiveINNOVATIONS%20award%203.jpeg"
+    },
+    {
+      "id": 2,
+      "yrmkmd": "BMW m4",
+      "price": 62000,
+      "imageURL" : "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2022/my23/m-models/m4-coupe/overview/mobile/BMW-MY23-M4-Coupe-Overview-CSL-Feature-01-Mobile.jpg"
+    },
+    {
+      "id": 3,
+      "yrmkmd": "Tesla Model 3",
+      "price": 169000,
+      "imageURL" : "https://i.insider.com/60f860760729770012b91c62?width=700"
+    }
+  ]
